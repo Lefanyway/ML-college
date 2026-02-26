@@ -1,1 +1,0 @@
-print("RESULTADO: PRONTO PRA AULA!!")
